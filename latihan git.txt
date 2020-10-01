@@ -4,3 +4,4 @@ latihan git
 - integrasi git
 - melaukan praktik git
 - melakukan kolaborasi git sebagai tuga
+- tutorial git
